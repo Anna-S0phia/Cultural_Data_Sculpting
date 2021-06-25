@@ -1,4 +1,7 @@
 # Cultural Data Sculpting
+
+### The final visualization is available here: https://cables.gl/p/uLiDbC .
+
 eM+ / experimental Museology lab at EPFL (https://www.epfl.ch/labs/emplus/)
 
 The code in this repository was made to build a timeline visualisation of Giorgio Vasari's "Lives of the Most Excellent Painters, Sculptors, and Architects" (1568). The visualisation was my final project for the Cultural Data Sculpting course, given by Sarah Kenderdine at EPFL (eM+ lab) in 2021 and is available under the following link: https://cables.gl/p/uLiDbC .
