@@ -1,8 +1,10 @@
 
-# Cultural Data Sculpting
+# Cultural Data Sculpting (eM+ lab at EPFL)
 
 
-The code in this repository was made to build a timeline visualisation of Giorgio Vasari's "Lives of the Most Excellent Painters, Sculptors, and Architects" (1568). The visualisation was my final project for the Cultural Data Sculpting course, given by Sarah Kenderdine, eM+ / experimental Museology lab at EPFL (https://www.epfl.ch/labs/emplus/) in 2021 and is available under the following link: https://cables.gl/p/uLiDbC .
+The code in this repository was made to build a timeline visualization of Giorgio Vasari's "Lives of the Most Excellent Painters, Sculptors, and Architects (https://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects). 
+
+The visualisation was my final project for the Cultural Data Sculpting course, given by Sarah Kenderdine, eM+ / experimental Museology lab at EPFL (https://www.epfl.ch/labs/emplus/) in 2021 and is available under the following link: https://cables.gl/p/uLiDbC .
 
 Link to the Rijksmuseum metadata csv: https://github.com/Rijksmuseum/rijksmuseum.github.io/releases/download/1.0.0/202001-rma-csv-collection.zip (accessed June 14, 2021)
 
@@ -22,7 +24,6 @@ The visualization is still a prototype, containing errors, like double entries, 
 
 <img width="1440" alt="Cultural_Data_Sculpting_Cables_2" src="https://user-images.githubusercontent.com/62997185/123473983-9d720380-d5f9-11eb-9e10-e94202beec15.png">
 
-<img width="1440" alt="Cultural_Data_Sculpting_Cables_5" src="https://user-images.githubusercontent.com/62997185/123476956-ae247880-d5fd-11eb-8e59-c7fee86bcad2.png">
 
 <img width="1440" alt="Bildschirmfoto 2021-06-25 um 21 50 52" src="https://user-images.githubusercontent.com/62997185/123478340-9c43d500-d5ff-11eb-8c0d-2193bf6ffab6.png">
 
