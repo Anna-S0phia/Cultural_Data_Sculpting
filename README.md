@@ -14,7 +14,7 @@ Link to the Visual WebGL / Web Audio programming editor "CABLES" (currently in p
 
 The visualization is still a prototype, containing errors, like double entries, and missing important features, like artwork metadata. Work in Progress.
 
-### Screenshots taken from the Visualisation (https://cables.gl/p/uLiDbC)
+### Screenshots from the Visualization (https://cables.gl/p/uLiDbC)
 
 <img width="1440" alt="Timeline_2" src="https://user-images.githubusercontent.com/62997185/123478587-ef1d8c80-d5ff-11eb-9dad-035a78cb9e90.png">
 
