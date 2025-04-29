@@ -12,7 +12,7 @@ Link to the METcollection metadata csv: https://github.com/metmuseum/openaccess/
 
 Link to the Visual WebGL / Web Audio programming editor "CABLES" (currently in public beta): https://cables.gl (accessed June 14, 2021).
 
-Link to the [Final report](https://github.com/Anna-S0phia/Cultural_Data_Sculpting/blob/main/CDS-Vasari_Timeline_AnnaS-Bauer_2021.pdf)
+Link to the [Final report](https://github.com/Anna-S0phia/Cultural_Data_Sculpting/blob/main/CDS-Vasari_Timeline_AnnaS-Bauer_2021.pdf).
 
 The visualization is still a prototype with errors such as double entries, and important features such as artwork metadata and touchscreen optimization are missing. Work in progress.
 
