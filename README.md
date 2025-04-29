@@ -12,6 +12,8 @@ Link to the METcollection metadata csv: https://github.com/metmuseum/openaccess/
 
 Link to the Visual WebGL / Web Audio programming editor "CABLES" (currently in public beta): https://cables.gl (accessed June 14, 2021).
 
+Link to the final report in english: 
+
 The visualization is still a prototype with errors such as double entries, and important features such as artwork metadata and touchscreen optimization are missing. Work in progress.
 
 #### Screenshots from the Visualization (https://cables.gl/p/uLiDbC)
